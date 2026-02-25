@@ -1,4 +1,4 @@
-# Certifications
+# Certifications 
 
 ### 🏅 Prompt Engineering – Infosys Springboard (Feb 2026)
 Successfully completed Prompt Engineering certification, gaining knowledge in:
